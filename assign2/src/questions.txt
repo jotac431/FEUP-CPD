@@ -1,0 +1,29 @@
+What is the capital of France?,Paris
+Who directed the movie Titanic?,James Cameron
+What is the largest mammal on Earth?,Blue Whale
+Who was the first president of the United States?,George Washington
+What is the currency of Japan?,Yen
+What is the highest mountain in the world?,Mount Everest
+What is the smallest country in the world?,Vatican City
+Who wrote the novel "To Kill a Mockingbird"?,Harper Lee
+What is the boiling point of water in degrees Celsius?,100
+Who painted the Mona Lisa?,Leonardo da Vinci
+What is the name of the main character in the Harry Potter series?,Harry Potter
+What is the chemical symbol for gold?,Au
+Who was the first person to step on the moon?,Neil Armstrong
+What is the name of the world's largest desert?,Sahara
+What is the name of the river that runs through Egypt?,Nile
+What is the largest country in the world by area?,Russia
+Who is the founder of Microsoft?,Bill Gates
+What is the name of the world's largest ocean?,Pacific Ocean
+What is the primary language spoken in Brazil?,Portuguese
+Who wrote the novel "The Great Gatsby"?,F. Scott Fitzgerald
+What is the capital of Spain?,Madrid
+What is the name of the largest organ in the human body?,Skin
+What is the distance around a circle called?,Circumference
+Who painted the "Starry Night"?,Vincent van Gogh
+What is the name of the highest waterfall in the world?,Angel Falls
+What is the smallest planet in our solar system?,Mercury
+Who is the author of "The Catcher in the Rye"?,J.D. Salinger
+What is the name of the world's largest coral reef system?,Great Barrier Reef
+What is the unit of measurement for energy?,Joule
